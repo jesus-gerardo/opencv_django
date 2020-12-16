@@ -1,0 +1,10 @@
+db.sqlite3
+
+media/fotos/*
+!/media/fotos/.gitkeep
+
+media/tmp/*
+!/media/tmp/.gitkeep
+
+media/imagenes/*
+!/media/imagenes/.gitkeep
